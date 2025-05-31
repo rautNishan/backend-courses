@@ -14,10 +14,10 @@ public class Main {
 //        String name2="Nishan";
 //        System.out.println(name2);
 
-        String name=new String("Nishan");
-        System.out.println(name);
-        String name2=new String("Nishan");
-        System.out.println(name2);
+//        String name=new String("Nishan");
+//        System.out.println(name);
+//        String name2=new String("Nishan");
+//        System.out.println(name2);
 //        int arr[]=new int[2];
 //        arr[0]=1;
 //        arr[1]=2;
@@ -53,7 +53,7 @@ public class Main {
 //                age[i]+=1;
 //            }
 //
-        Student Nishan=new Student("Nishan",22);
+//        Student Nishan=new Student("Nishan",22);
 //
 //        Student hero=Nishan;
 //        System.out.println(hero.name);
@@ -115,12 +115,11 @@ public class Main {
 //        nishan.printHealth();
 //        hari.printHealth();
 
-
     }
+
 }
 
 //this keyword is the reference to the current object/instance.
-
 
 //Class
 class Student{
